@@ -2,4 +2,5 @@ changed first and second line(dev1 brnch)
 hello(modified)
 second line(modified)
 new change in dev1 branch
+line 5th in branch dev2 , no change on dev1 code
 
