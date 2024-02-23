@@ -1,2 +1,4 @@
-hello
-second line 
+changed first and second line
+hello(modified)
+second line(modified)
+
